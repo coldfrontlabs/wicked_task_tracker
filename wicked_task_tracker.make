@@ -9,6 +9,7 @@ api = 2
 
 projects[jquery_update][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
+projects[options_element][subdir] = "contrib"
 
 ;---------------------------------;
 ; Contrib Themes
