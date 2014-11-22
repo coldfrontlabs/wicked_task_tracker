@@ -18,4 +18,10 @@ Build Order
 9. Add new content
     - Create a dummy article to see what it's like to edit content
     - Get some sample text (http://chrisvalleskey.com/fillerama/)
+    - Or better yet, write out your story about how your task tracker is going to be the best one in the world!!!
     - Save your article!
+10. Create a second article named Task #1
+    - Add a task to make this task manager easier to use.
+11. We can log tasks, but it's not great. Let's see if we can customize how we input information.
+    - Don't want to change Article because we'll need that to write all about our awesome task tracker!
+12. Create our first content type
