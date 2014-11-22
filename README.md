@@ -15,3 +15,7 @@ Build Order
 7. Set admin theme to Seven
     - Don't use seven for content editing
 8. Check the homepage
+9. Add new content
+    - Create a dummy article to see what it's like to edit content
+    - Get some sample text (http://chrisvalleskey.com/fillerama/)
+    - Save your article!
